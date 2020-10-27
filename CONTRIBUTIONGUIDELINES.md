@@ -16,4 +16,4 @@ Don't worry, the Open Source Community have got your back!! Add your repository 
 ## Suggestions for a good pull request
 > Tips: Once you've learnt the basics of pull requests, it's important to know that although `quantity` is necessary to complete Hacktoberfest, `quality` is what makes Open Source a fruitful developer community. A poor quality pull request may be invalidated by the repository too.
 
-<NOTE: Check out the `CONTRIBUTORS.md` file of the repository you are planning to contribute to know how the maintainers would like you to contribute to their repository.
+> NOTE: Check out the `CONTRIBUTORS.md` file of the repository you are planning to contribute to know how the maintainers would like you to contribute to their repository.
