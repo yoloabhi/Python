@@ -1,4 +1,4 @@
-#HackNight - MUJ ACM Virtual Hacktoberfest Meetup
+# HackNight - MUJ ACM Virtual Hacktoberfest Meetup
 
 ![MUJ ACM Virtual Hacktoberfest Meetup](https://github.com/mujacm/Python/blob/main/Images/mujacmvirtualmeetup.jpg)
 
