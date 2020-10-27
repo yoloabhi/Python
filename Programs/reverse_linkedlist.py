@@ -58,7 +58,7 @@ class LinkedList:
 
 # Driver program 
 llist = LinkedList() 
-llist.push(8) 
+llist.push(10) 
 llist.push(7) 
 llist.push(6) 
 llist.push(5) 
@@ -67,7 +67,7 @@ llist.push(3)
 llist.push(2) 
 llist.push(1) 
 
-print "Given linked list"
+print "Resultant linked list"
 llist.printList() 
 
 llist.reverse() 
